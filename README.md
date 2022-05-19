@@ -1,4 +1,4 @@
-# Hello, I am Sokheng 👋🏾
+# Hello, I'm Sokheng Teang 👋🏾
 
 <img src="./sokheng.png">
 
