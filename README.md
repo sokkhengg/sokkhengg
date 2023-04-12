@@ -2,7 +2,7 @@
 
 ## Find me on other sites:
 - This is my project Github profile.
-- This is my active Github Profile <a href="https://github.com/sokhengteang">LinkedIn</a> 
+- This is my active Github Profile <a href="https://github.com/sokhengteang">Active Github</a> 
 - Keep up to date with me on my <a href="https://www.linkedin.com/in/sokhengteang/">LinkedIn</a> 💼 👨🏾‍💻
 
 <img src="./sokheng.png">
