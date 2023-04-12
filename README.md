@@ -1,5 +1,10 @@
 # Hello, I'm Sokheng Teang 👋🏾
 
+## Find me on other sites:
+- This is my project Github profile.
+- This is my active Github Profile <a href="https://github.com/sokhengteang">LinkedIn</a> 
+- Keep up to date with me on my <a href="https://www.linkedin.com/in/sokhengteang/">LinkedIn</a> 💼 👨🏾‍💻
+
 <img src="./sokheng.png">
 
 Welcome to my Github! My name is Sokheng Teang (<a href="https://www.howtopronounce.com/sokheng">pronunciation </a>).
@@ -15,7 +20,4 @@ I am originally from Cambodia, and I currently live in California. I speak Khmer
 
 I am passionate about using technology to create social impact, and I strongly believe that education is the key to success. In my spare time, I enjoy reading, hiking, and playing video games.
 
-## Find me on other sites:
 
-- Keep up to date with me on my <a href="https://www.linkedin.com/in/sokhengteang/">LinkedIn</a> 💼 👨🏾‍💻
-- Follow my blog on <a href="//https://medium.com/@sokheng23/"> Medium</a> 💻
